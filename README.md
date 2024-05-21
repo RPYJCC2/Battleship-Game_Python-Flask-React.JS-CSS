@@ -13,7 +13,7 @@ Prerequisites
 
 1. Node.js and npm: Make sure you have Node.js and npm installed. You can download and install them from https://nodejs.org/.
 2. Python: Make sure you have Python installed. You can download and install it from https://www.python.org/.
-3. Git: Make sure you have Git installed. You can download and install it from https://git-scm.com/.
+3. Git: You should probably install Git. You can download and install it from https://git-scm.com/.
 
 Steps to Run the Project
 
