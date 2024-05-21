@@ -7,7 +7,7 @@
 ## 4. Javascript communicates with localhost via Axios.
 ## 5. Added radio chatter for ambience
 
-# To run the game: 1) run app.py 2) execute "npm start" in cmd
+# To run the game: 1) run app.py in backend folder 2) execute "npm start" in cmd prompt
 
 ### Looking to add more aesthetic features in free time (e.g., 2d models and sound effects).
 
