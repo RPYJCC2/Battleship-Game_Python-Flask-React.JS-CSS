@@ -7,9 +7,43 @@
 ## 4. Javascript communicates with localhost via Axios.
 ## 5. Added radio chatter for ambience
 
-# To run the game: 1) Install Python, Node.js, Flask, Axios 2) run app.py in backend folder 3) execute "npm start" in cmd prompt
+# Setup Instructions
 
-### Looking to add more aesthetic features in free time (e.g., 2d models and sound effects).
+Prerequisites
+
+1. Node.js and npm: Make sure you have Node.js and npm installed. You can download and install them from https://nodejs.org/.
+2. Python: Make sure you have Python installed. You can download and install it from https://www.python.org/.
+3. Git: Make sure you have Git installed. You can download and install it from https://git-scm.com/.
+
+Steps to Run the Project
+
+1. Clone the Repository:
+    git clone https://github.com/RPYJCC2/Battleship-Game_Python-Flask-React.JS-CSS.git
+    cd Battleship-Game_Python-Flask-React.JS-CSS
+
+2. Set Up the Backend:
+    - Navigate to the backend directory:
+      cd Backend
+    - Create a virtual environment:
+      python -m venv venv
+    - Activate the virtual environment:
+      - On Windows:
+        venv\Scripts\activate
+      - On macOS/Linux:
+        source venv/bin/activate
+    - Install the required Python packages from requirements.txt:
+      pip install -r requirements.txt
+    - Run the Flask application:
+      python app.py
+
+3. Set Up the Frontend:
+    - Open a new terminal window or tab.
+    - Navigate to the frontend directory:
+      cd ../frontend
+    - Install the required Node.js packages:
+      npm install
+    - Start the React application:
+      npm start
 
 
 # Getting Started with Create React App
