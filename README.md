@@ -24,14 +24,7 @@ Steps to Run the Project
 2. Set Up the Backend:
     - Navigate to the backend directory:
       cd Backend
-    - Create a virtual environment:
-      python -m venv venv
-    - Activate the virtual environment:
-      - On Windows:
-        venv\Scripts\activate
-      - On macOS/Linux:
-        source venv/bin/activate
-    - Install the required Python packages from requirements.txt:
+    - Install flask Python package from requirements.txt:
       pip install -r requirements.txt
     - Run the Flask application:
       python app.py
@@ -40,8 +33,8 @@ Steps to Run the Project
     - Open a new terminal window or tab.
     - Navigate to the frontend directory:
       cd ../frontend
-    - Install the required Node.js packages:
-      npm install
+    - Install the required Node.js packages including axios and react:
+      npm install  
     - Start the React application:
       npm start
 
