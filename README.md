@@ -2,7 +2,7 @@
 # Battleship-Game_Python-Flask-React.JS-CSS
 
 ## 1. I made a simple battleship game to host locally.
-## 2. The major game logic uses Python and javascript helps bring everything together.
+## 2. The major game logic uses Python (see backend folder) and javascript (see src folder) helps bring everything together.
 ## 3. Python communicates with Javascript via Flask. 
 ## 4. Javascript communicates with localhost via Axios.
 ## 5. Added radio chatter for ambience
